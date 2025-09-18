@@ -1,4 +1,4 @@
-# Blackcoffer Text Analysis Assignment Submission
+# Text Analysis Assignment Submission
 
 ## 🧠 How I Approached the Solution
 
@@ -38,4 +38,5 @@ Follow these steps to reproduce my results:
 ### 2. Install Dependencies
 Open terminal in the project folder and run:
 ```bash
+
 pip install selenium webdriver-manager pandas openpyxl nltk
